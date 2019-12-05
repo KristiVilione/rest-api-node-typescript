@@ -3,7 +3,7 @@ Security for our Web APIs
 
 In this chapter, I will show you various methods to secure your RESTful Web APIs. You should use at least one or combine those methods for a more secure API application.
 
-And if you want to use services like `mLab <https://mlab.com/>`_ , `compose <https://www.compose.com/>`_  …, they have already implemented a secured system on their end. All that you need to do is to follow their instructions to hook the database to your app.
+And if you want to use services like `mLab <https://mlab.com/>`_ , `compose <https://www.compose.com/>`_ , `ScaleGrid <https://scalegrid.io/>`_  …, they have already implemented a secured system on their end. All that you need to do is to follow their instructions to hook the database to your app.
 
 Method 1: The first and foremost is that you should always use HTTPS over HTTP
 ------------------------------------------------------------------------------
